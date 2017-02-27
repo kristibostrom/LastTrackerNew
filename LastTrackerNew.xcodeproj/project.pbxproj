@@ -7,17 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E308A7691E62969700F803C8 /* EventDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A7681E62969700F803C8 /* EventDetailViewController.swift */; };
+		E308A76B1E6296D500F803C8 /* EventListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A76A1E6296D500F803C8 /* EventListViewController.swift */; };
+		E308A76D1E6296E300F803C8 /* AddOccurrenceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A76C1E6296E300F803C8 /* AddOccurrenceViewController.swift */; };
+		E308A76F1E6296F100F803C8 /* ProfilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A76E1E6296F100F803C8 /* ProfilesViewController.swift */; };
+		E308A7711E62970500F803C8 /* ProfileDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A7701E62970500F803C8 /* ProfileDetailViewController.swift */; };
+		E308A7731E62971400F803C8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A7721E62971400F803C8 /* SettingsViewController.swift */; };
+		E308A7751E62971F00F803C8 /* SettingDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E308A7741E62971F00F803C8 /* SettingDetailViewController.swift */; };
+		E34A89B21E5D477D00D471A7 /* MarckScript-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E34A89B11E5D477D00D471A7 /* MarckScript-Regular.ttf */; };
+		E34A89B41E5D4A3200D471A7 /* SigmarOne.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E34A89B31E5D4A3200D471A7 /* SigmarOne.ttf */; };
+		E34A89B61E5D4B6F00D471A7 /* Handlee-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E34A89B51E5D4B6F00D471A7 /* Handlee-Regular.ttf */; };
 		E36043911E56A2E40011B0B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36043901E56A2E40011B0B7 /* AppDelegate.swift */; };
-		E36043931E56A2E40011B0B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36043921E56A2E40011B0B7 /* ViewController.swift */; };
+		E36043931E56A2E40011B0B7 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36043921E56A2E40011B0B7 /* HomeViewController.swift */; };
 		E36043961E56A2E40011B0B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E36043941E56A2E40011B0B7 /* Main.storyboard */; };
 		E36043981E56A2E40011B0B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E36043971E56A2E40011B0B7 /* Assets.xcassets */; };
 		E360439B1E56A2E40011B0B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E36043991E56A2E40011B0B7 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E308A7681E62969700F803C8 /* EventDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventDetailViewController.swift; sourceTree = "<group>"; };
+		E308A76A1E6296D500F803C8 /* EventListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventListViewController.swift; sourceTree = "<group>"; };
+		E308A76C1E6296E300F803C8 /* AddOccurrenceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddOccurrenceViewController.swift; sourceTree = "<group>"; };
+		E308A76E1E6296F100F803C8 /* ProfilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfilesViewController.swift; sourceTree = "<group>"; };
+		E308A7701E62970500F803C8 /* ProfileDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileDetailViewController.swift; sourceTree = "<group>"; };
+		E308A7721E62971400F803C8 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		E308A7741E62971F00F803C8 /* SettingDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingDetailViewController.swift; sourceTree = "<group>"; };
+		E34A89B11E5D477D00D471A7 /* MarckScript-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MarckScript-Regular.ttf"; sourceTree = "<group>"; };
+		E34A89B31E5D4A3200D471A7 /* SigmarOne.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SigmarOne.ttf; sourceTree = "<group>"; };
+		E34A89B51E5D4B6F00D471A7 /* Handlee-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Handlee-Regular.ttf"; sourceTree = "<group>"; };
 		E360438D1E56A2E40011B0B7 /* LastTrackerNew.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LastTrackerNew.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E36043901E56A2E40011B0B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E36043921E56A2E40011B0B7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E36043921E56A2E40011B0B7 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		E36043951E56A2E40011B0B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E36043971E56A2E40011B0B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E360439A1E56A2E40011B0B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -35,6 +55,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E34A89AE1E5D464F00D471A7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E34A89B51E5D4B6F00D471A7 /* Handlee-Regular.ttf */,
+				E34A89B11E5D477D00D471A7 /* MarckScript-Regular.ttf */,
+				E34A89B31E5D4A3200D471A7 /* SigmarOne.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		E36043841E56A2E40011B0B7 = {
 			isa = PBXGroup;
 			children = (
@@ -54,9 +84,17 @@
 		E360438F1E56A2E40011B0B7 /* LastTrackerNew */ = {
 			isa = PBXGroup;
 			children = (
+				E34A89AE1E5D464F00D471A7 /* Resources */,
 				E36043901E56A2E40011B0B7 /* AppDelegate.swift */,
-				E36043921E56A2E40011B0B7 /* ViewController.swift */,
 				E36043941E56A2E40011B0B7 /* Main.storyboard */,
+				E36043921E56A2E40011B0B7 /* HomeViewController.swift */,
+				E308A7681E62969700F803C8 /* EventDetailViewController.swift */,
+				E308A76A1E6296D500F803C8 /* EventListViewController.swift */,
+				E308A76C1E6296E300F803C8 /* AddOccurrenceViewController.swift */,
+				E308A76E1E6296F100F803C8 /* ProfilesViewController.swift */,
+				E308A7701E62970500F803C8 /* ProfileDetailViewController.swift */,
+				E308A7721E62971400F803C8 /* SettingsViewController.swift */,
+				E308A7741E62971F00F803C8 /* SettingDetailViewController.swift */,
 				E36043971E56A2E40011B0B7 /* Assets.xcassets */,
 				E36043991E56A2E40011B0B7 /* LaunchScreen.storyboard */,
 				E360439C1E56A2E40011B0B7 /* Info.plist */,
@@ -124,7 +162,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E360439B1E56A2E40011B0B7 /* LaunchScreen.storyboard in Resources */,
+				E34A89B61E5D4B6F00D471A7 /* Handlee-Regular.ttf in Resources */,
+				E34A89B21E5D477D00D471A7 /* MarckScript-Regular.ttf in Resources */,
 				E36043981E56A2E40011B0B7 /* Assets.xcassets in Resources */,
+				E34A89B41E5D4A3200D471A7 /* SigmarOne.ttf in Resources */,
 				E36043961E56A2E40011B0B7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +177,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E36043931E56A2E40011B0B7 /* ViewController.swift in Sources */,
+				E308A76D1E6296E300F803C8 /* AddOccurrenceViewController.swift in Sources */,
+				E308A7691E62969700F803C8 /* EventDetailViewController.swift in Sources */,
+				E308A76B1E6296D500F803C8 /* EventListViewController.swift in Sources */,
+				E36043931E56A2E40011B0B7 /* HomeViewController.swift in Sources */,
+				E308A7751E62971F00F803C8 /* SettingDetailViewController.swift in Sources */,
+				E308A76F1E6296F100F803C8 /* ProfilesViewController.swift in Sources */,
+				E308A7711E62970500F803C8 /* ProfileDetailViewController.swift in Sources */,
 				E36043911E56A2E40011B0B7 /* AppDelegate.swift in Sources */,
+				E308A7731E62971400F803C8 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +347,7 @@
 				E36043A11E56A2E40011B0B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
